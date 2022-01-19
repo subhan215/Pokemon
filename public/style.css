@@ -1,0 +1,213 @@
+
+.headerlogos{
+  display: flex;
+  justify-content: center;
+
+}
+.headerlogo1{
+   width: 99px;
+   padding: 9px 10px 8px;
+   margin: 0 10px;
+}
+.headerlogo2{
+   width: 89px;
+   padding: 9px 10px 8px 0;
+}
+.headerlogo3{
+   width:103px;
+   padding: 9px 10px 8px;
+}
+.headerlogo4{
+   width: 183px;
+}
+.headerlogo4 img{
+   margin: 6px 0 6px 7px;
+}
+.headerlogo5{
+   width: 182px;
+}
+.headerlogo5 img{
+   margin: 6px 0 6px 7px;
+}
+.headerlogo6{
+   width: 183px;
+}
+.headerlogo6 img{
+   margin: 6px 0 6px 7px;
+}
+
+.nav a, p, img{
+   margin: 0;
+   padding: 0;
+}
+
+.nav div{
+   display: inline-flex;
+   width: 127.8px;
+   
+   
+   
+   
+} 
+.nav{
+  
+   width: 100%;
+   text-align: center;
+  
+}
+.homepng{
+   background-color:  #707B7C ;   
+   width: 130px;
+   height: 90px;
+}
+
+.homepng img{
+   position: relative;
+   top: 20px;
+   left: 40px;
+}   
+.homepng p{
+   position: relative;
+   top: 20px;
+   left: 40px;
+}
+.pokedexpng{
+   border-bottom: 5px solid red;
+   width: 130px;
+   height: 87px;
+  
+}
+.pokedexpng:hover{
+   background-color: red;
+}
+.pokedexpng img{
+   position: relative;
+   top: 20px;
+   left: 40px;
+} 
+.pokedexpng p{
+   position: relative;
+   top: 20px;
+   left: 40px;
+}
+.videogamesimg {
+   border-bottom: 5px solid orange;
+   width: 130px;
+   height: 82px;
+   
+}   
+.videogamesimg:hover{
+   background-color: orange;
+}
+.videogamesimg img{
+    position: relative;
+    top: 17px;
+}
+.videogamesimg p{
+   position: relative;
+   top: 17px;
+   left: 7px;
+}
+.tradingimg{
+   border-bottom: 5px solid yellow;
+   width: 130px;
+   height: 81px;
+  
+}
+.tradingimg:hover{
+   background-color: yellow;
+}
+.tradingimg img{
+   position: relative;
+   top: 17px;
+}
+.tradingimg p{
+   position: relative;
+   top: 17px;
+   left: 3px;
+}
+.pokemontv{
+   border-bottom: 5px solid green;
+   width: 130px;
+   height: 82px;
+  
+}
+.pokemontv:hover{
+   background-color: green;
+}
+.pokemontv img{
+   position: relative;
+   top: 15px;
+   left: 15px;
+   
+}
+.pokemontv p{
+   position: relative;
+   top: 15px;
+   left: 20px;
+} 
+.pokemoneventsimg {
+   border-bottom: 5px solid #3498DB;
+   width: 130px;
+   height: 83px;
+  
+}
+.pokemoneventsimg:hover{
+   background-color: #3498DB;
+}
+.pokemoneventsimg img{
+   position: relative;
+   top: 15px;
+}
+.pokemoneventsimg p{
+   position: relative;
+   top: 13px;
+   left: 5px;
+}
+.newsimg{
+   border-bottom: 5px solid royalblue ;
+   width: 130px;
+   height: 84px;
+   
+}
+.newsimg:hover{
+   background-color: royalblue;
+}
+.newsimg img{
+   position: relative;
+   top: 13px;
+   left: 30px;
+}
+.newsimg p{
+   position: relative;
+   top: 11px;
+   left: 30px;
+} 
+
+.dp{
+   background-color: rgb(90, 197, 90);
+   width: 4.35%;
+   border-top: 2px solid black;
+   border-top-right-radius: 15px;
+   border-left: 2px solid black; 
+   border-right: 2px solid black;
+   text-align: center;
+   height: 70px;
+   padding-top: 10px;
+   position: fixed;
+   top: 205px;
+}
+.dp{
+   font-size: 11px;
+   color: white;
+}
+.searchdiv{
+   position: fixed;
+   top: 280px;
+}
+.searchimg{
+   position: relative;
+   
+  bottom: 50px;
+  left:15px;
+}
